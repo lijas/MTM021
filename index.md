@@ -1,16 +1,19 @@
 
 # Välkommen
 
-Detta är in sida för kursen MTM021, Statik och Hållfasthetsläre.
+Detta är en sida för kursen MTM021, Statik och Hållfasthetslära.
 
-### Teori
-[Friläggning](/uppgift1/)
+## Teori
+[Friläggning]() - TODO
 
-[Snitt-metoden](/uppgift2/)
+[Snitt-metoden]() - TODO
 
-### Uppgifter
-[Uppgift 1](uppgift1/) - stång som lutar mot cylinder
+## Uppgifter
 
-[Uppgift 2](uppgift2/) - stega som lutar mot vägg
+#### Friktion
 
-[Uppgift 3](uppgift3/) -
+ - [Uppgift 1](/uppgift1/uppgift1) - Stång som lutar mot cylinder
+ - [Uppgift 2](/uppgift2/uppgift2) - Stege som lutar mot vägg
+ - [Uppgift 3](/uppgift3/uppgift3) - Två lådor med lina
+
+#### Hållf

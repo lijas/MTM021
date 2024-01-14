@@ -5,7 +5,7 @@ En stång stöder mot cirkulär cylinder. Både stången och cylyndern har massa
 
 ~~~
 <canvas id="myCanvas1"></canvas>
-<p> Friction: </p>
+<p> Friktion: </p>
 <input id="range1" name="range1" type="range" step="0.01" min="0" max="0.5" value="0.25">
 <p> Angle: </p>
 <input id="range_angle" type="range" step="1" min="8" max="17" value="12">
