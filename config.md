@@ -19,7 +19,7 @@ ignore = ["node_modules/"]
 generate_rss = true
 website_title = "MTM021"
 website_descr = "Några lösningsförslag i MTM021"
-website_url   = "https://tlienart.github.io/FranklinTemplates.jl/"
+website_url   = "https://lijas.github.io/MTM021/"
 +++
 
 <!--
