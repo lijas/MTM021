@@ -8,6 +8,8 @@ Detta är en sida för kursen MTM021, Statik och Hållfasthetslära.
 
 [Snitt-metoden]() - TODO
 
+[Lutande plan](/lutande_plan/lutande_plan) - Lutande plan
+
 ## Uppgifter
 
 #### Friktion
